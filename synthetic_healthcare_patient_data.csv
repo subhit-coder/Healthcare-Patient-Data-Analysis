@@ -1,0 +1,1001 @@
+Patient_ID,Name,Age,Gender,Disease,Treatment_Cost,Recovery_Days
+P0001,Meena Patel,74,Male,Heart Disease,26140,47
+P0002,Ravi Kumar,32,Female,Migraine,6325,9
+P0003,Meena Chopra,89,Female,Cancer,92592,116
+P0004,Deepak Mishra,82,Female,Cancer,59347,108
+P0005,Anil Gupta,22,Male,Thyroid,8069,17
+P0006,Priya Mishra,54,Female,Arthritis,24782,25
+P0007,Vikram Patel,32,Male,Hypertension,12786,28
+P0008,Kavita Verma,87,Female,Thyroid,6817,13
+P0009,Vikram Mishra,88,Female,Cancer,126059,70
+P0010,Ravi Yadav,85,Male,Asthma,11129,11
+P0011,Rahul Mehta,55,Male,Heart Disease,45798,42
+P0012,Kavita Sharma,61,Female,Arthritis,22023,29
+P0013,Deepak Nair,68,Male,Arthritis,17101,28
+P0014,Neha Reddy,81,Female,Asthma,8710,20
+P0015,Rahul Sharma,28,Female,Asthma,8303,20
+P0016,Priya Mehta,56,Male,Cancer,58667,106
+P0017,Pooja Yadav,43,Female,Heart Disease,45218,44
+P0018,Amit Gupta,82,Male,Hypertension,14993,18
+P0019,Amit Jain,60,Female,Thyroid,7393,15
+P0020,Kavita Sharma,77,Female,Cancer,59953,64
+P0021,Sunita Das,76,Male,Hypertension,8155,19
+P0022,Vikram Singh,73,Male,Hypertension,11805,16
+P0023,Kavita Singh,29,Male,Arthritis,19072,30
+P0024,Suresh Yadav,18,Male,Arthritis,24911,34
+P0025,Meena Mehta,38,Female,Diabetes,19145,30
+P0026,Amit Reddy,56,Male,Heart Disease,28024,41
+P0027,Sunita Patel,85,Male,Heart Disease,25573,43
+P0028,Meena Chopra,39,Female,Arthritis,20673,32
+P0029,Vikram Kumar,81,Female,Migraine,5741,11
+P0030,Ravi Nair,27,Male,Diabetes,10818,28
+P0031,Neha Kumar,43,Male,Arthritis,17831,33
+P0032,Priya Yadav,34,Male,Heart Disease,39253,42
+P0033,Anil Gupta,53,Male,Hypertension,12819,22
+P0034,Meena Verma,47,Female,Heart Disease,48068,51
+P0035,Raj Patel,87,Male,Migraine,6164,9
+P0036,Kavita Reddy,73,Male,Hypertension,12125,23
+P0037,Meena Verma,87,Female,Diabetes,14037,30
+P0038,Ravi Nair,76,Female,Arthritis,24862,31
+P0039,Neha Rao,74,Male,Arthritis,23774,25
+P0040,Anil Mehta,41,Male,Arthritis,21901,32
+P0041,Suresh Das,48,Female,Hypertension,12653,22
+P0042,Deepak Kumar,74,Female,Heart Disease,34705,56
+P0043,Suresh Verma,26,Female,Diabetes,15590,28
+P0044,Anil Patel,84,Female,Migraine,5820,10
+P0045,Pooja Rao,35,Male,Hypertension,9454,20
+P0046,Suresh Mehta,24,Female,Diabetes,18269,30
+P0047,Sneha Gupta,88,Female,Migraine,4731,11
+P0048,Raj Mehta,77,Female,Arthritis,22460,32
+P0049,Kavita Singh,19,Male,Migraine,7388,9
+P0050,Vikram Gupta,42,Female,Diabetes,14183,28
+P0051,Kavita Patel,69,Male,Asthma,11418,22
+P0052,Anjali Singh,75,Female,Asthma,8129,24
+P0053,Sunita Jain,52,Male,Diabetes,11274,21
+P0054,Neha Chopra,41,Female,Cancer,118948,107
+P0055,Kavita Joshi,73,Female,Heart Disease,30557,48
+P0056,Meena Singh,89,Female,Asthma,10792,12
+P0057,Amit Mishra,24,Male,Cancer,130524,84
+P0058,Anjali Mishra,48,Male,Heart Disease,34922,44
+P0059,Vikram Rao,46,Male,Asthma,10131,19
+P0060,Anjali Singh,33,Male,Migraine,3965,8
+P0061,Suresh Rao,72,Female,Heart Disease,33156,59
+P0062,Pooja Kumar,56,Female,Asthma,8971,19
+P0063,Anjali Verma,82,Male,Asthma,9404,11
+P0064,Sunita Chopra,84,Male,Cancer,55517,64
+P0065,Rahul Kumar,20,Male,Diabetes,16778,31
+P0066,Suresh Yadav,63,Male,Thyroid,7352,11
+P0067,Pooja Chopra,62,Female,Hypertension,11245,29
+P0068,Anil Patel,67,Male,Cancer,93816,98
+P0069,Priya Jain,32,Female,Thyroid,9248,14
+P0070,Raj Patel,71,Female,Cancer,149568,88
+P0071,Ravi Gupta,65,Female,Heart Disease,26589,53
+P0072,Pooja Mehta,29,Female,Asthma,8164,17
+P0073,Deepak Patel,83,Male,Thyroid,7444,13
+P0074,Sunita Das,27,Male,Hypertension,14455,22
+P0075,Kavita Jain,86,Male,Hypertension,11227,27
+P0076,Kavita Mehta,83,Male,Thyroid,5969,19
+P0077,Ravi Verma,85,Male,Thyroid,8711,19
+P0078,Meena Mehta,54,Female,Diabetes,14248,27
+P0079,Amit Mehta,44,Male,Arthritis,19610,25
+P0080,Kavita Verma,37,Female,Heart Disease,28745,41
+P0081,Amit Singh,75,Male,Hypertension,13977,19
+P0082,Sunita Chopra,35,Male,Cancer,129319,74
+P0083,Ravi Nair,19,Male,Diabetes,18128,27
+P0084,Pooja Kumar,41,Female,Hypertension,11464,28
+P0085,Deepak Verma,18,Male,Thyroid,7534,18
+P0086,Raj Reddy,20,Female,Hypertension,14066,23
+P0087,Vikram Patel,82,Female,Arthritis,17234,27
+P0088,Priya Mehta,78,Female,Arthritis,18257,39
+P0089,Anil Gupta,71,Male,Cancer,124619,85
+P0090,Sneha Patel,71,Female,Asthma,10772,24
+P0091,Suresh Sharma,77,Male,Heart Disease,49446,47
+P0092,Suresh Mishra,50,Male,Hypertension,12793,16
+P0093,Anil Gupta,79,Female,Migraine,6416,6
+P0094,Sneha Sharma,61,Male,Cancer,70500,90
+P0095,Neha Chopra,84,Female,Hypertension,14839,18
+P0096,Deepak Singh,78,Female,Arthritis,20768,38
+P0097,Sneha Rao,57,Male,Cancer,93306,79
+P0098,Pooja Singh,76,Male,Thyroid,6847,18
+P0099,Meena Mehta,81,Female,Diabetes,16750,30
+P0100,Kavita Verma,48,Male,Arthritis,15918,31
+P0101,Suresh Kumar,80,Female,Migraine,6903,12
+P0102,Neha Reddy,25,Female,Diabetes,14925,32
+P0103,Vikram Chopra,33,Female,Arthritis,23685,31
+P0104,Sneha Patel,33,Female,Arthritis,21276,39
+P0105,Anjali Jain,38,Male,Asthma,10530,11
+P0106,Sunita Mehta,84,Female,Heart Disease,29525,48
+P0107,Sunita Mehta,41,Male,Diabetes,18098,25
+P0108,Ravi Sharma,19,Female,Heart Disease,38347,55
+P0109,Sunita Yadav,63,Male,Migraine,6751,9
+P0110,Meena Gupta,42,Male,Hypertension,10463,21
+P0111,Pooja Singh,23,Female,Heart Disease,44916,53
+P0112,Priya Sharma,50,Male,Cancer,105186,72
+P0113,Suresh Jain,86,Female,Asthma,8436,24
+P0114,Anil Singh,87,Female,Diabetes,19999,32
+P0115,Anjali Reddy,70,Female,Asthma,9721,20
+P0116,Ravi Singh,64,Female,Heart Disease,48121,51
+P0117,Rahul Joshi,86,Female,Hypertension,9053,27
+P0118,Suresh Jain,39,Male,Hypertension,12665,18
+P0119,Neha Yadav,64,Female,Heart Disease,41485,40
+P0120,Vikram Kumar,19,Female,Cancer,108141,73
+P0121,Pooja Das,18,Male,Diabetes,12018,21
+P0122,Ravi Patel,76,Male,Cancer,138613,68
+P0123,Priya Kumar,57,Female,Hypertension,11954,20
+P0124,Pooja Sharma,65,Female,Asthma,11568,19
+P0125,Vikram Das,53,Female,Asthma,8360,16
+P0126,Pooja Sharma,31,Female,Asthma,7359,21
+P0127,Pooja Gupta,32,Female,Thyroid,8703,12
+P0128,Anjali Reddy,27,Female,Diabetes,12275,25
+P0129,Rahul Yadav,52,Female,Migraine,6033,5
+P0130,Deepak Nair,86,Male,Arthritis,18289,36
+P0131,Ravi Gupta,87,Female,Thyroid,7285,18
+P0132,Ravi Kumar,66,Male,Heart Disease,39268,43
+P0133,Vikram Jain,64,Female,Thyroid,5118,11
+P0134,Amit Patel,74,Male,Cancer,96998,63
+P0135,Anil Chopra,19,Female,Diabetes,17529,28
+P0136,Raj Joshi,32,Female,Cancer,113980,114
+P0137,Kavita Gupta,64,Male,Diabetes,12790,22
+P0138,Sneha Kumar,36,Male,Asthma,11924,16
+P0139,Sunita Das,68,Male,Asthma,8697,16
+P0140,Amit Jain,31,Male,Cancer,100279,72
+P0141,Kavita Mehta,85,Male,Asthma,9586,14
+P0142,Anil Singh,19,Female,Arthritis,21432,33
+P0143,Sneha Nair,62,Female,Cancer,60366,102
+P0144,Meena Gupta,77,Female,Heart Disease,25342,46
+P0145,Sneha Verma,67,Female,Heart Disease,40873,42
+P0146,Anil Verma,82,Female,Migraine,4515,10
+P0147,Kavita Gupta,60,Male,Thyroid,6274,12
+P0148,Ravi Mehta,37,Female,Hypertension,11109,28
+P0149,Neha Jain,73,Female,Migraine,7230,13
+P0150,Ravi Sharma,31,Male,Heart Disease,27373,40
+P0151,Anil Kumar,69,Female,Migraine,6018,12
+P0152,Amit Singh,35,Male,Cancer,101832,104
+P0153,Vikram Nair,20,Female,Arthritis,24327,31
+P0154,Rahul Gupta,75,Male,Heart Disease,26702,44
+P0155,Ravi Das,49,Female,Thyroid,7912,18
+P0156,Vikram Jain,77,Male,Cancer,54711,67
+P0157,Meena Sharma,32,Female,Arthritis,20269,39
+P0158,Sunita Singh,67,Female,Asthma,11397,24
+P0159,Meena Singh,21,Female,Thyroid,6477,10
+P0160,Anil Singh,87,Female,Arthritis,17674,38
+P0161,Ravi Das,67,Female,Arthritis,21644,37
+P0162,Anil Gupta,32,Male,Diabetes,18797,25
+P0163,Vikram Singh,85,Male,Heart Disease,27846,40
+P0164,Amit Mehta,64,Male,Heart Disease,38256,53
+P0165,Sneha Patel,24,Male,Thyroid,6620,19
+P0166,Sunita Verma,60,Male,Migraine,4632,5
+P0167,Meena Mehta,59,Male,Asthma,11778,10
+P0168,Meena Yadav,70,Female,Thyroid,6988,16
+P0169,Ravi Nair,26,Female,Arthritis,19395,26
+P0170,Pooja Gupta,44,Male,Cancer,51216,94
+P0171,Vikram Gupta,75,Female,Hypertension,12630,16
+P0172,Anjali Mehta,65,Male,Cancer,73248,112
+P0173,Rahul Kumar,33,Male,Diabetes,14339,33
+P0174,Ravi Chopra,61,Male,Diabetes,12793,39
+P0175,Deepak Nair,77,Female,Cancer,94405,81
+P0176,Sneha Mishra,72,Male,Migraine,7320,7
+P0177,Anjali Rao,25,Female,Migraine,3428,11
+P0178,Rahul Rao,58,Female,Diabetes,18764,35
+P0179,Meena Yadav,58,Female,Cancer,61755,104
+P0180,Anjali Reddy,32,Male,Heart Disease,39668,42
+P0181,Sneha Das,19,Female,Asthma,10112,21
+P0182,Neha Patel,70,Male,Arthritis,23727,27
+P0183,Priya Verma,44,Male,Asthma,9755,22
+P0184,Vikram Chopra,59,Male,Hypertension,11558,19
+P0185,Pooja Yadav,63,Male,Cancer,135313,98
+P0186,Sneha Das,23,Female,Asthma,9640,15
+P0187,Anil Mehta,50,Male,Cancer,75021,84
+P0188,Rahul Mishra,67,Male,Arthritis,16636,33
+P0189,Anjali Das,79,Male,Asthma,8737,17
+P0190,Anjali Mishra,78,Female,Asthma,10911,16
+P0191,Neha Yadav,86,Male,Cancer,136697,76
+P0192,Ravi Verma,86,Male,Heart Disease,30356,56
+P0193,Neha Gupta,42,Female,Cancer,139060,61
+P0194,Amit Patel,42,Male,Cancer,149146,60
+P0195,Sunita Chopra,73,Male,Arthritis,24179,39
+P0196,Anil Mehta,44,Female,Migraine,6687,5
+P0197,Kavita Rao,62,Male,Thyroid,9183,17
+P0198,Sunita Verma,65,Female,Arthritis,23344,31
+P0199,Suresh Singh,38,Male,Hypertension,8151,26
+P0200,Rahul Joshi,38,Female,Diabetes,16363,35
+P0201,Sneha Rao,50,Female,Asthma,11836,10
+P0202,Sneha Yadav,26,Male,Migraine,5532,8
+P0203,Priya Singh,88,Male,Cancer,98976,89
+P0204,Sunita Yadav,73,Male,Cancer,145452,106
+P0205,Vikram Yadav,81,Female,Arthritis,16577,36
+P0206,Neha Sharma,31,Female,Arthritis,19440,38
+P0207,Priya Gupta,53,Female,Cancer,64648,65
+P0208,Amit Mishra,71,Male,Migraine,7964,14
+P0209,Raj Yadav,21,Female,Arthritis,17094,37
+P0210,Kavita Rao,59,Male,Hypertension,12308,18
+P0211,Sneha Patel,54,Female,Diabetes,14117,26
+P0212,Raj Jain,26,Female,Thyroid,8118,12
+P0213,Sneha Singh,66,Male,Cancer,76958,117
+P0214,Priya Reddy,37,Male,Diabetes,14145,27
+P0215,Sunita Yadav,69,Male,Thyroid,6629,11
+P0216,Anil Kumar,62,Male,Hypertension,13037,19
+P0217,Sunita Jain,40,Female,Diabetes,16228,33
+P0218,Meena Mehta,24,Female,Thyroid,6405,11
+P0219,Vikram Joshi,67,Female,Heart Disease,31855,51
+P0220,Raj Jain,19,Male,Diabetes,19193,23
+P0221,Rahul Joshi,59,Female,Cancer,138820,107
+P0222,Kavita Singh,67,Male,Heart Disease,36592,40
+P0223,Rahul Joshi,36,Female,Hypertension,8893,19
+P0224,Suresh Yadav,68,Female,Thyroid,8110,15
+P0225,Suresh Chopra,53,Female,Migraine,5177,7
+P0226,Anil Singh,23,Male,Migraine,7600,8
+P0227,Sunita Patel,58,Female,Hypertension,10216,24
+P0228,Kavita Chopra,44,Male,Hypertension,10539,25
+P0229,Anil Yadav,20,Male,Diabetes,11930,33
+P0230,Sneha Das,77,Male,Heart Disease,32575,57
+P0231,Sneha Rao,65,Female,Migraine,7672,6
+P0232,Vikram Chopra,71,Male,Thyroid,6302,13
+P0233,Raj Mishra,30,Male,Hypertension,8144,23
+P0234,Pooja Gupta,88,Female,Cancer,108549,111
+P0235,Neha Joshi,87,Female,Asthma,7559,21
+P0236,Anjali Chopra,87,Male,Thyroid,5644,16
+P0237,Sneha Kumar,38,Male,Migraine,5679,14
+P0238,Neha Joshi,32,Female,Diabetes,11762,27
+P0239,Sneha Kumar,48,Male,Cancer,86126,112
+P0240,Neha Gupta,86,Male,Thyroid,7365,14
+P0241,Ravi Nair,31,Female,Cancer,73085,116
+P0242,Amit Kumar,66,Female,Heart Disease,45304,52
+P0243,Kavita Jain,66,Female,Thyroid,5683,14
+P0244,Rahul Chopra,81,Female,Thyroid,6508,19
+P0245,Sneha Nair,21,Female,Thyroid,8231,12
+P0246,Sunita Verma,54,Female,Thyroid,8262,12
+P0247,Vikram Rao,38,Male,Diabetes,17223,28
+P0248,Vikram Reddy,19,Female,Hypertension,11426,24
+P0249,Suresh Singh,41,Female,Arthritis,17453,29
+P0250,Anil Gupta,89,Male,Asthma,9356,11
+P0251,Anil Das,68,Male,Cancer,99307,118
+P0252,Rahul Gupta,31,Female,Heart Disease,27373,45
+P0253,Pooja Das,42,Male,Thyroid,9475,14
+P0254,Ravi Jain,78,Male,Diabetes,19288,39
+P0255,Kavita Verma,27,Male,Arthritis,22952,38
+P0256,Anjali Singh,18,Male,Heart Disease,29628,41
+P0257,Ravi Singh,42,Male,Diabetes,19615,36
+P0258,Anil Yadav,78,Female,Heart Disease,47684,54
+P0259,Deepak Reddy,69,Female,Heart Disease,48985,48
+P0260,Anjali Mehta,61,Male,Heart Disease,44491,57
+P0261,Anil Das,75,Male,Hypertension,10713,20
+P0262,Anil Jain,22,Female,Hypertension,12278,29
+P0263,Meena Joshi,36,Female,Hypertension,11015,29
+P0264,Suresh Yadav,43,Female,Hypertension,8457,15
+P0265,Anil Mishra,81,Male,Asthma,7130,13
+P0266,Priya Chopra,47,Male,Arthritis,16896,28
+P0267,Priya Patel,48,Female,Diabetes,10911,20
+P0268,Anjali Mehta,29,Female,Migraine,5788,10
+P0269,Anil Chopra,58,Female,Arthritis,17730,28
+P0270,Kavita Yadav,50,Male,Thyroid,6953,18
+P0271,Sunita Mishra,74,Female,Thyroid,9807,15
+P0272,Raj Nair,54,Female,Arthritis,20484,29
+P0273,Anjali Kumar,24,Male,Hypertension,11797,15
+P0274,Ravi Reddy,27,Male,Migraine,4598,12
+P0275,Raj Kumar,25,Male,Cancer,129660,107
+P0276,Ravi Jain,41,Female,Arthritis,19568,37
+P0277,Neha Das,58,Female,Arthritis,16466,30
+P0278,Sneha Mehta,34,Male,Thyroid,6848,19
+P0279,Amit Sharma,36,Female,Heart Disease,28836,42
+P0280,Anjali Jain,75,Female,Asthma,7226,22
+P0281,Neha Nair,87,Male,Migraine,6742,6
+P0282,Neha Das,51,Female,Arthritis,17414,28
+P0283,Sneha Mehta,45,Male,Hypertension,11300,15
+P0284,Priya Singh,42,Male,Hypertension,9513,28
+P0285,Sunita Jain,85,Male,Thyroid,8074,17
+P0286,Vikram Sharma,80,Male,Diabetes,13911,39
+P0287,Anjali Singh,38,Female,Diabetes,16161,35
+P0288,Priya Yadav,56,Male,Hypertension,13383,19
+P0289,Priya Singh,52,Female,Thyroid,9886,11
+P0290,Neha Kumar,74,Male,Heart Disease,27704,45
+P0291,Anjali Yadav,18,Female,Thyroid,8217,16
+P0292,Sneha Das,23,Male,Migraine,6436,8
+P0293,Pooja Singh,61,Female,Hypertension,8713,28
+P0294,Vikram Patel,53,Female,Migraine,4031,10
+P0295,Anjali Joshi,62,Male,Migraine,7413,12
+P0296,Suresh Reddy,32,Male,Asthma,11050,14
+P0297,Anil Sharma,68,Female,Cancer,61018,102
+P0298,Anjali Mishra,33,Male,Migraine,5173,12
+P0299,Meena Sharma,46,Female,Diabetes,11360,20
+P0300,Anil Reddy,72,Male,Hypertension,11918,23
+P0301,Anil Singh,80,Female,Asthma,10322,18
+P0302,Sneha Gupta,55,Female,Migraine,6052,6
+P0303,Meena Rao,56,Male,Arthritis,18921,28
+P0304,Sneha Verma,78,Female,Diabetes,14885,36
+P0305,Meena Mehta,21,Male,Hypertension,10864,23
+P0306,Sneha Jain,33,Female,Diabetes,14607,36
+P0307,Rahul Mehta,74,Female,Hypertension,9491,18
+P0308,Amit Reddy,31,Male,Thyroid,5445,12
+P0309,Anil Patel,62,Female,Migraine,6176,7
+P0310,Amit Yadav,26,Male,Heart Disease,37935,56
+P0311,Neha Chopra,78,Male,Thyroid,8624,14
+P0312,Meena Singh,78,Female,Cancer,88404,71
+P0313,Raj Nair,59,Female,Cancer,87439,67
+P0314,Anil Rao,56,Female,Cancer,134351,108
+P0315,Anil Joshi,42,Female,Cancer,137757,94
+P0316,Kavita Mishra,25,Male,Diabetes,13487,36
+P0317,Deepak Singh,54,Male,Cancer,82069,91
+P0318,Amit Nair,88,Male,Cancer,148764,71
+P0319,Anil Reddy,53,Male,Heart Disease,26423,52
+P0320,Meena Patel,18,Male,Heart Disease,43511,51
+P0321,Anjali Chopra,84,Male,Diabetes,11866,20
+P0322,Rahul Reddy,41,Male,Arthritis,20367,27
+P0323,Kavita Patel,71,Male,Hypertension,10860,26
+P0324,Anjali Nair,27,Female,Arthritis,23075,25
+P0325,Sneha Reddy,38,Male,Thyroid,5416,15
+P0326,Anil Joshi,59,Female,Migraine,5533,9
+P0327,Ravi Das,74,Male,Arthritis,22093,31
+P0328,Meena Kumar,70,Male,Hypertension,8477,27
+P0329,Anil Patel,20,Male,Cancer,135640,111
+P0330,Rahul Nair,56,Male,Heart Disease,44717,52
+P0331,Sneha Patel,86,Male,Asthma,8742,19
+P0332,Priya Chopra,71,Female,Arthritis,23295,33
+P0333,Meena Sharma,89,Male,Arthritis,24654,30
+P0334,Neha Patel,28,Female,Asthma,7692,17
+P0335,Sunita Chopra,84,Male,Migraine,4902,13
+P0336,Ravi Gupta,48,Female,Asthma,10266,18
+P0337,Amit Rao,39,Male,Arthritis,17739,32
+P0338,Raj Rao,43,Male,Asthma,8601,19
+P0339,Vikram Rao,83,Female,Asthma,7418,18
+P0340,Amit Reddy,75,Female,Heart Disease,37965,42
+P0341,Anjali Nair,51,Female,Heart Disease,47885,48
+P0342,Kavita Verma,69,Female,Migraine,6893,6
+P0343,Priya Verma,20,Male,Diabetes,18702,25
+P0344,Anil Sharma,36,Male,Arthritis,23196,26
+P0345,Deepak Reddy,67,Female,Migraine,4003,11
+P0346,Sneha Kumar,41,Male,Migraine,4111,6
+P0347,Vikram Joshi,37,Female,Thyroid,8304,16
+P0348,Vikram Reddy,66,Male,Asthma,7187,19
+P0349,Amit Sharma,58,Female,Migraine,6903,5
+P0350,Sneha Verma,71,Male,Thyroid,6173,11
+P0351,Neha Patel,76,Female,Asthma,7175,21
+P0352,Deepak Mehta,51,Male,Heart Disease,33222,45
+P0353,Pooja Mehta,64,Female,Arthritis,20935,32
+P0354,Meena Sharma,51,Female,Arthritis,17689,32
+P0355,Sunita Kumar,39,Female,Arthritis,16962,35
+P0356,Amit Das,34,Female,Diabetes,13721,24
+P0357,Anjali Gupta,56,Male,Arthritis,22086,26
+P0358,Deepak Mehta,79,Male,Hypertension,9793,15
+P0359,Amit Nair,87,Male,Migraine,4023,5
+P0360,Ravi Singh,84,Female,Hypertension,14997,27
+P0361,Neha Nair,42,Male,Arthritis,21213,25
+P0362,Meena Kumar,22,Female,Heart Disease,42639,43
+P0363,Deepak Verma,81,Male,Arthritis,23136,36
+P0364,Kavita Joshi,75,Female,Migraine,4820,7
+P0365,Raj Mehta,33,Male,Cancer,112925,70
+P0366,Pooja Singh,42,Female,Asthma,7193,22
+P0367,Suresh Das,28,Female,Diabetes,12136,34
+P0368,Anil Reddy,36,Female,Thyroid,5932,12
+P0369,Sneha Yadav,85,Male,Asthma,10285,22
+P0370,Vikram Rao,66,Male,Heart Disease,45334,53
+P0371,Meena Nair,57,Male,Arthritis,15614,34
+P0372,Ravi Jain,27,Female,Asthma,11996,14
+P0373,Sneha Kumar,23,Female,Diabetes,18210,23
+P0374,Sneha Chopra,28,Male,Thyroid,9910,17
+P0375,Ravi Joshi,81,Female,Thyroid,5875,10
+P0376,Deepak Reddy,65,Female,Arthritis,16935,28
+P0377,Raj Rao,70,Male,Heart Disease,32751,46
+P0378,Neha Joshi,48,Male,Cancer,89873,94
+P0379,Suresh Jain,43,Male,Migraine,3114,14
+P0380,Neha Nair,82,Female,Thyroid,8806,18
+P0381,Raj Joshi,43,Female,Thyroid,8120,16
+P0382,Anjali Kumar,35,Male,Heart Disease,32465,52
+P0383,Neha Mishra,89,Female,Cancer,114155,67
+P0384,Vikram Reddy,46,Female,Asthma,10768,17
+P0385,Anil Yadav,30,Female,Cancer,140394,83
+P0386,Anjali Verma,37,Male,Migraine,6539,5
+P0387,Neha Das,41,Female,Asthma,10229,17
+P0388,Sneha Rao,87,Male,Diabetes,12983,25
+P0389,Raj Nair,33,Male,Asthma,9747,17
+P0390,Sunita Joshi,32,Male,Hypertension,10929,21
+P0391,Anjali Yadav,33,Female,Arthritis,15103,30
+P0392,Meena Mishra,75,Male,Diabetes,17935,25
+P0393,Anjali Verma,24,Male,Thyroid,6807,10
+P0394,Kavita Mehta,74,Male,Asthma,8670,10
+P0395,Anil Singh,40,Female,Cancer,116368,85
+P0396,Deepak Nair,34,Male,Cancer,131894,116
+P0397,Anjali Joshi,87,Male,Hypertension,13166,26
+P0398,Ravi Yadav,63,Female,Asthma,11680,10
+P0399,Kavita Mehta,55,Female,Thyroid,9007,11
+P0400,Raj Singh,31,Female,Diabetes,18380,33
+P0401,Neha Yadav,68,Female,Heart Disease,32363,44
+P0402,Meena Mehta,26,Male,Diabetes,17328,28
+P0403,Anil Das,26,Female,Thyroid,8207,13
+P0404,Vikram Patel,89,Male,Migraine,6168,13
+P0405,Kavita Patel,70,Male,Cancer,132215,84
+P0406,Sneha Singh,41,Male,Hypertension,8720,22
+P0407,Rahul Joshi,40,Female,Arthritis,15653,34
+P0408,Neha Nair,73,Female,Diabetes,14576,24
+P0409,Rahul Verma,68,Male,Thyroid,8146,15
+P0410,Deepak Das,18,Male,Migraine,4569,10
+P0411,Amit Rao,45,Female,Thyroid,6586,17
+P0412,Anjali Kumar,80,Male,Migraine,7095,13
+P0413,Neha Reddy,68,Female,Heart Disease,30230,40
+P0414,Vikram Joshi,18,Male,Heart Disease,26841,52
+P0415,Ravi Singh,46,Female,Heart Disease,35212,50
+P0416,Amit Rao,25,Male,Thyroid,6574,15
+P0417,Deepak Verma,39,Female,Cancer,57967,93
+P0418,Anjali Verma,59,Female,Cancer,119821,71
+P0419,Anil Kumar,75,Female,Asthma,7373,23
+P0420,Neha Singh,25,Male,Migraine,3998,12
+P0421,Rahul Singh,71,Male,Diabetes,15587,34
+P0422,Vikram Reddy,19,Male,Asthma,10149,21
+P0423,Anjali Yadav,47,Female,Cancer,87663,101
+P0424,Raj Chopra,19,Female,Migraine,7973,14
+P0425,Sneha Patel,65,Female,Thyroid,9865,17
+P0426,Raj Reddy,71,Female,Hypertension,8612,22
+P0427,Sunita Reddy,52,Male,Arthritis,17079,36
+P0428,Anil Mehta,32,Female,Cancer,131355,72
+P0429,Suresh Gupta,23,Male,Asthma,11114,14
+P0430,Anjali Singh,78,Female,Arthritis,15518,32
+P0431,Anjali Patel,48,Female,Arthritis,21565,39
+P0432,Deepak Sharma,59,Female,Cancer,98063,91
+P0433,Anil Mishra,32,Male,Migraine,7060,6
+P0434,Raj Joshi,45,Female,Migraine,3276,10
+P0435,Raj Kumar,73,Female,Cancer,75057,118
+P0436,Sunita Singh,71,Male,Thyroid,5162,14
+P0437,Deepak Nair,86,Female,Thyroid,6479,14
+P0438,Rahul Das,87,Female,Arthritis,24770,34
+P0439,Amit Gupta,71,Male,Thyroid,9088,13
+P0440,Ravi Gupta,84,Male,Diabetes,12293,30
+P0441,Anjali Mishra,66,Male,Diabetes,14863,35
+P0442,Amit Sharma,70,Male,Asthma,7237,14
+P0443,Ravi Singh,45,Female,Asthma,10190,11
+P0444,Raj Gupta,70,Female,Arthritis,17689,26
+P0445,Deepak Mehta,47,Female,Asthma,10558,11
+P0446,Raj Patel,27,Male,Arthritis,19620,35
+P0447,Anjali Jain,88,Female,Cancer,81732,67
+P0448,Raj Singh,74,Female,Diabetes,19665,25
+P0449,Sunita Reddy,75,Female,Arthritis,21447,39
+P0450,Kavita Yadav,72,Male,Diabetes,14462,22
+P0451,Vikram Das,79,Female,Diabetes,12321,36
+P0452,Pooja Nair,35,Female,Heart Disease,28234,52
+P0453,Pooja Reddy,88,Male,Asthma,7880,19
+P0454,Raj Mishra,23,Female,Asthma,7596,18
+P0455,Raj Yadav,44,Female,Cancer,88929,113
+P0456,Priya Kumar,22,Male,Thyroid,6294,11
+P0457,Meena Yadav,81,Male,Diabetes,11196,21
+P0458,Pooja Mehta,34,Female,Cancer,79479,108
+P0459,Sunita Verma,79,Female,Cancer,63587,92
+P0460,Amit Reddy,85,Male,Diabetes,17013,21
+P0461,Meena Rao,42,Female,Heart Disease,45789,57
+P0462,Priya Yadav,22,Female,Hypertension,8815,24
+P0463,Deepak Gupta,44,Male,Diabetes,15432,33
+P0464,Meena Rao,31,Male,Asthma,8758,13
+P0465,Vikram Nair,34,Male,Heart Disease,35101,42
+P0466,Sunita Rao,75,Female,Cancer,101838,69
+P0467,Kavita Chopra,56,Female,Thyroid,6058,17
+P0468,Suresh Gupta,33,Male,Migraine,3359,12
+P0469,Vikram Mehta,43,Female,Arthritis,19036,33
+P0470,Meena Reddy,79,Male,Diabetes,17124,23
+P0471,Meena Nair,60,Male,Diabetes,14303,23
+P0472,Anil Mehta,72,Male,Asthma,7332,20
+P0473,Ravi Rao,74,Male,Migraine,6087,6
+P0474,Vikram Yadav,75,Male,Cancer,66549,113
+P0475,Anil Yadav,21,Female,Asthma,8634,20
+P0476,Neha Yadav,67,Female,Thyroid,7702,18
+P0477,Pooja Joshi,28,Female,Thyroid,9553,16
+P0478,Vikram Yadav,39,Male,Diabetes,18219,20
+P0479,Sneha Das,84,Male,Arthritis,16191,26
+P0480,Rahul Mehta,87,Male,Arthritis,16336,27
+P0481,Neha Joshi,66,Male,Thyroid,7465,17
+P0482,Meena Nair,29,Male,Hypertension,9567,25
+P0483,Amit Sharma,60,Male,Hypertension,13594,20
+P0484,Sneha Das,66,Female,Thyroid,5226,11
+P0485,Ravi Mishra,74,Female,Thyroid,8771,14
+P0486,Sneha Gupta,85,Male,Thyroid,7930,19
+P0487,Kavita Yadav,66,Female,Arthritis,23459,26
+P0488,Vikram Chopra,22,Male,Thyroid,8711,15
+P0489,Suresh Patel,52,Male,Migraine,4253,7
+P0490,Sunita Nair,21,Male,Diabetes,17524,33
+P0491,Meena Gupta,78,Female,Cancer,136293,85
+P0492,Suresh Singh,80,Female,Hypertension,13014,21
+P0493,Amit Mehta,57,Female,Cancer,128397,77
+P0494,Suresh Sharma,72,Male,Hypertension,8999,20
+P0495,Kavita Rao,58,Female,Hypertension,10615,17
+P0496,Sneha Verma,62,Male,Asthma,9112,16
+P0497,Neha Sharma,54,Female,Migraine,4368,14
+P0498,Sneha Chopra,53,Female,Cancer,98988,117
+P0499,Kavita Jain,79,Female,Asthma,11868,14
+P0500,Anjali Verma,66,Female,Hypertension,10989,29
+P0501,Raj Joshi,53,Male,Heart Disease,35620,55
+P0502,Sneha Chopra,86,Female,Heart Disease,35751,45
+P0503,Deepak Reddy,72,Male,Thyroid,6464,14
+P0504,Amit Rao,40,Male,Migraine,4618,6
+P0505,Meena Verma,36,Male,Diabetes,13370,33
+P0506,Anil Jain,82,Female,Asthma,8293,16
+P0507,Amit Reddy,43,Male,Arthritis,24758,28
+P0508,Pooja Singh,84,Male,Asthma,9600,17
+P0509,Ravi Patel,47,Male,Cancer,77295,65
+P0510,Anil Gupta,26,Female,Cancer,70336,81
+P0511,Priya Joshi,89,Male,Heart Disease,45968,52
+P0512,Sunita Patel,36,Female,Arthritis,20426,27
+P0513,Amit Mishra,43,Male,Diabetes,19405,31
+P0514,Pooja Patel,49,Male,Arthritis,24100,35
+P0515,Sunita Joshi,21,Female,Arthritis,24842,34
+P0516,Suresh Gupta,54,Male,Migraine,4362,14
+P0517,Sneha Nair,23,Male,Migraine,7092,7
+P0518,Anjali Chopra,18,Male,Migraine,6355,12
+P0519,Priya Kumar,62,Male,Hypertension,9904,17
+P0520,Priya Mishra,75,Male,Diabetes,14618,38
+P0521,Priya Yadav,84,Female,Migraine,3110,7
+P0522,Deepak Singh,89,Male,Arthritis,23726,29
+P0523,Sunita Joshi,39,Male,Diabetes,10214,22
+P0524,Anil Jain,71,Male,Thyroid,7794,14
+P0525,Amit Patel,70,Male,Diabetes,16183,39
+P0526,Pooja Kumar,30,Male,Arthritis,21719,27
+P0527,Pooja Chopra,55,Female,Heart Disease,39375,48
+P0528,Raj Gupta,71,Female,Arthritis,18396,28
+P0529,Anjali Das,82,Female,Heart Disease,28013,59
+P0530,Priya Rao,59,Female,Arthritis,18048,39
+P0531,Anjali Das,81,Female,Heart Disease,40445,57
+P0532,Ravi Chopra,41,Female,Asthma,11260,23
+P0533,Amit Chopra,85,Male,Cancer,82363,103
+P0534,Neha Jain,61,Male,Cancer,88052,88
+P0535,Suresh Singh,64,Male,Asthma,10870,23
+P0536,Amit Gupta,23,Female,Asthma,9173,24
+P0537,Rahul Rao,79,Male,Thyroid,8477,18
+P0538,Meena Mishra,19,Male,Arthritis,18219,31
+P0539,Neha Chopra,61,Male,Migraine,5304,9
+P0540,Raj Rao,79,Female,Cancer,124821,108
+P0541,Sneha Sharma,73,Female,Thyroid,7782,18
+P0542,Ravi Mehta,88,Male,Heart Disease,34386,48
+P0543,Sneha Sharma,30,Female,Thyroid,5872,19
+P0544,Suresh Singh,36,Male,Diabetes,18447,39
+P0545,Vikram Verma,58,Male,Cancer,60581,72
+P0546,Anil Jain,51,Female,Hypertension,12732,18
+P0547,Raj Gupta,23,Female,Heart Disease,25338,43
+P0548,Raj Reddy,57,Female,Heart Disease,33276,51
+P0549,Ravi Kumar,41,Female,Hypertension,11307,27
+P0550,Priya Joshi,66,Male,Heart Disease,37813,53
+P0551,Kavita Chopra,42,Female,Diabetes,10416,35
+P0552,Amit Nair,34,Female,Thyroid,6017,19
+P0553,Sneha Chopra,87,Male,Asthma,7368,10
+P0554,Suresh Das,87,Male,Cancer,50688,104
+P0555,Anil Jain,37,Female,Diabetes,16343,28
+P0556,Meena Gupta,55,Female,Arthritis,20029,35
+P0557,Sunita Mishra,66,Female,Arthritis,20768,26
+P0558,Vikram Mehta,48,Male,Cancer,101111,70
+P0559,Pooja Yadav,67,Male,Migraine,6667,8
+P0560,Anil Singh,39,Female,Cancer,82594,118
+P0561,Neha Nair,26,Male,Cancer,84046,70
+P0562,Pooja Reddy,48,Male,Migraine,3969,5
+P0563,Ravi Gupta,79,Male,Heart Disease,48561,55
+P0564,Ravi Sharma,25,Male,Arthritis,19866,33
+P0565,Amit Joshi,30,Female,Asthma,7024,12
+P0566,Priya Mehta,69,Male,Migraine,6697,6
+P0567,Deepak Kumar,48,Male,Diabetes,10210,28
+P0568,Anil Chopra,18,Female,Migraine,6069,5
+P0569,Rahul Patel,73,Female,Heart Disease,30026,57
+P0570,Neha Chopra,34,Male,Cancer,74260,91
+P0571,Rahul Yadav,31,Female,Cancer,123438,76
+P0572,Sunita Verma,26,Female,Arthritis,17509,29
+P0573,Anil Verma,44,Male,Asthma,8445,13
+P0574,Vikram Rao,82,Male,Migraine,6930,8
+P0575,Vikram Joshi,59,Female,Migraine,3451,13
+P0576,Sunita Joshi,46,Female,Heart Disease,39091,51
+P0577,Raj Mehta,87,Female,Diabetes,13730,28
+P0578,Priya Patel,67,Male,Thyroid,6103,12
+P0579,Deepak Yadav,41,Female,Cancer,104661,77
+P0580,Kavita Kumar,38,Male,Migraine,4645,14
+P0581,Anjali Yadav,34,Female,Heart Disease,37581,40
+P0582,Suresh Yadav,42,Female,Hypertension,13713,17
+P0583,Ravi Chopra,38,Female,Cancer,94929,87
+P0584,Sneha Mehta,59,Female,Diabetes,12012,31
+P0585,Deepak Das,69,Female,Heart Disease,29179,51
+P0586,Rahul Sharma,29,Male,Diabetes,19540,28
+P0587,Pooja Mehta,44,Female,Hypertension,13833,20
+P0588,Rahul Gupta,80,Female,Cancer,131471,93
+P0589,Vikram Sharma,30,Male,Cancer,52286,86
+P0590,Sneha Chopra,26,Male,Thyroid,8348,13
+P0591,Amit Sharma,36,Female,Hypertension,12357,27
+P0592,Pooja Rao,73,Male,Cancer,60575,110
+P0593,Deepak Das,45,Male,Cancer,149357,92
+P0594,Kavita Mishra,22,Female,Heart Disease,30660,50
+P0595,Meena Yadav,72,Male,Migraine,3324,5
+P0596,Kavita Patel,37,Male,Migraine,4192,6
+P0597,Meena Chopra,55,Male,Asthma,11206,14
+P0598,Rahul Kumar,83,Female,Migraine,3733,12
+P0599,Priya Reddy,81,Female,Arthritis,19849,26
+P0600,Suresh Singh,20,Male,Heart Disease,27694,52
+P0601,Deepak Kumar,88,Female,Hypertension,8647,28
+P0602,Raj Jain,72,Female,Cancer,64426,97
+P0603,Kavita Yadav,53,Male,Diabetes,10155,30
+P0604,Anil Jain,35,Male,Cancer,77664,101
+P0605,Priya Mishra,54,Female,Cancer,133935,108
+P0606,Raj Mishra,30,Male,Hypertension,8499,21
+P0607,Suresh Das,82,Male,Hypertension,12678,25
+P0608,Amit Chopra,43,Male,Thyroid,7904,18
+P0609,Meena Reddy,37,Female,Diabetes,12597,33
+P0610,Anil Reddy,39,Male,Thyroid,5529,19
+P0611,Neha Patel,78,Male,Diabetes,11204,34
+P0612,Amit Patel,78,Male,Heart Disease,48283,55
+P0613,Anjali Nair,62,Male,Heart Disease,47248,57
+P0614,Sunita Jain,46,Female,Arthritis,15585,31
+P0615,Sneha Yadav,41,Female,Hypertension,10856,25
+P0616,Meena Jain,48,Female,Migraine,3894,10
+P0617,Kavita Mishra,75,Female,Arthritis,21265,27
+P0618,Raj Rao,87,Female,Cancer,62919,61
+P0619,Neha Chopra,47,Male,Migraine,7439,10
+P0620,Neha Gupta,62,Male,Asthma,9126,16
+P0621,Rahul Yadav,81,Female,Thyroid,5666,10
+P0622,Suresh Kumar,24,Female,Asthma,7111,18
+P0623,Ravi Nair,58,Male,Heart Disease,44383,52
+P0624,Suresh Verma,78,Female,Asthma,11978,16
+P0625,Neha Verma,84,Male,Arthritis,18373,37
+P0626,Meena Gupta,19,Female,Arthritis,15066,32
+P0627,Priya Kumar,43,Female,Migraine,6361,12
+P0628,Deepak Das,32,Male,Heart Disease,35557,59
+P0629,Amit Das,48,Female,Arthritis,22211,36
+P0630,Anil Reddy,84,Female,Diabetes,10696,32
+P0631,Sunita Verma,63,Female,Arthritis,19558,34
+P0632,Pooja Yadav,80,Female,Arthritis,15943,32
+P0633,Kavita Das,56,Male,Thyroid,6337,15
+P0634,Neha Kumar,18,Female,Cancer,127226,91
+P0635,Deepak Nair,29,Male,Migraine,5591,12
+P0636,Rahul Sharma,80,Female,Cancer,105422,97
+P0637,Anjali Das,73,Male,Asthma,10245,20
+P0638,Neha Patel,74,Female,Thyroid,8371,10
+P0639,Vikram Nair,66,Female,Heart Disease,40515,49
+P0640,Vikram Yadav,62,Male,Arthritis,17195,27
+P0641,Kavita Chopra,60,Male,Hypertension,13603,29
+P0642,Deepak Das,38,Female,Heart Disease,30402,40
+P0643,Ravi Kumar,40,Male,Migraine,3984,14
+P0644,Sunita Verma,82,Female,Asthma,10056,16
+P0645,Sunita Chopra,28,Male,Heart Disease,47714,59
+P0646,Rahul Gupta,62,Female,Diabetes,18541,28
+P0647,Priya Rao,41,Female,Diabetes,18374,22
+P0648,Pooja Reddy,85,Female,Hypertension,14258,23
+P0649,Meena Chopra,74,Female,Heart Disease,27689,45
+P0650,Deepak Kumar,22,Female,Hypertension,11759,19
+P0651,Ravi Kumar,52,Male,Thyroid,9104,14
+P0652,Rahul Chopra,82,Female,Arthritis,24237,39
+P0653,Amit Nair,46,Female,Diabetes,17328,36
+P0654,Kavita Sharma,44,Male,Thyroid,9923,10
+P0655,Deepak Nair,60,Female,Thyroid,6138,15
+P0656,Sunita Yadav,85,Female,Diabetes,15341,27
+P0657,Rahul Gupta,41,Female,Diabetes,15293,20
+P0658,Deepak Nair,89,Female,Heart Disease,27565,47
+P0659,Meena Rao,47,Female,Hypertension,10904,19
+P0660,Sneha Joshi,48,Female,Cancer,117646,94
+P0661,Amit Verma,56,Male,Thyroid,8431,11
+P0662,Kavita Patel,32,Female,Diabetes,10513,31
+P0663,Amit Mehta,28,Male,Diabetes,11209,37
+P0664,Amit Chopra,41,Female,Diabetes,13194,23
+P0665,Vikram Nair,20,Female,Cancer,126618,77
+P0666,Vikram Reddy,51,Female,Arthritis,24302,35
+P0667,Priya Mishra,42,Female,Asthma,11446,15
+P0668,Amit Yadav,51,Male,Cancer,92518,88
+P0669,Sunita Jain,40,Female,Arthritis,23103,33
+P0670,Sunita Chopra,79,Male,Migraine,3922,14
+P0671,Sunita Reddy,33,Female,Hypertension,12530,15
+P0672,Kavita Kumar,59,Male,Thyroid,8068,19
+P0673,Vikram Sharma,57,Female,Arthritis,24156,37
+P0674,Rahul Mishra,87,Female,Cancer,70410,101
+P0675,Kavita Singh,53,Male,Cancer,58738,63
+P0676,Pooja Gupta,31,Male,Hypertension,8617,18
+P0677,Anil Mishra,49,Male,Cancer,57453,75
+P0678,Rahul Yadav,23,Female,Heart Disease,25594,48
+P0679,Sneha Das,38,Male,Cancer,139253,75
+P0680,Sunita Chopra,78,Male,Migraine,7071,8
+P0681,Raj Singh,22,Male,Asthma,10813,24
+P0682,Deepak Sharma,43,Male,Cancer,70543,99
+P0683,Sneha Yadav,35,Female,Heart Disease,48699,43
+P0684,Deepak Joshi,65,Female,Arthritis,23687,28
+P0685,Ravi Sharma,35,Female,Arthritis,16054,29
+P0686,Suresh Sharma,32,Female,Cancer,81030,91
+P0687,Suresh Gupta,39,Female,Asthma,9960,21
+P0688,Pooja Singh,45,Male,Asthma,9640,23
+P0689,Suresh Chopra,76,Female,Migraine,3211,5
+P0690,Neha Jain,33,Female,Asthma,11628,18
+P0691,Pooja Jain,50,Male,Arthritis,20640,38
+P0692,Deepak Patel,31,Female,Arthritis,18002,35
+P0693,Raj Jain,23,Female,Heart Disease,37811,44
+P0694,Priya Kumar,73,Male,Diabetes,12856,23
+P0695,Anjali Sharma,67,Male,Migraine,4283,9
+P0696,Ravi Kumar,27,Male,Hypertension,9588,17
+P0697,Rahul Mehta,74,Female,Asthma,9650,20
+P0698,Sunita Joshi,32,Male,Arthritis,24250,34
+P0699,Pooja Das,41,Female,Arthritis,15133,30
+P0700,Sneha Chopra,21,Male,Cancer,71232,111
+P0701,Raj Chopra,18,Female,Asthma,11063,21
+P0702,Ravi Kumar,66,Female,Asthma,10864,17
+P0703,Vikram Rao,41,Male,Cancer,68980,107
+P0704,Vikram Sharma,47,Female,Diabetes,14821,29
+P0705,Kavita Jain,62,Female,Cancer,143055,115
+P0706,Anil Das,31,Female,Thyroid,7943,16
+P0707,Pooja Gupta,53,Male,Heart Disease,29951,51
+P0708,Sunita Kumar,26,Male,Heart Disease,36138,44
+P0709,Ravi Mehta,36,Female,Cancer,87294,76
+P0710,Vikram Das,37,Male,Heart Disease,28349,44
+P0711,Anil Joshi,51,Male,Diabetes,16266,39
+P0712,Anil Yadav,73,Male,Arthritis,23250,34
+P0713,Anil Yadav,46,Female,Cancer,99616,73
+P0714,Vikram Gupta,51,Male,Cancer,81067,60
+P0715,Rahul Sharma,39,Male,Heart Disease,41213,56
+P0716,Anil Joshi,74,Male,Asthma,9707,10
+P0717,Rahul Verma,86,Female,Migraine,4828,12
+P0718,Sunita Reddy,33,Female,Migraine,6636,11
+P0719,Vikram Jain,61,Female,Asthma,10970,24
+P0720,Amit Mehta,84,Female,Migraine,7968,5
+P0721,Vikram Rao,45,Female,Diabetes,19702,26
+P0722,Deepak Reddy,40,Female,Migraine,6330,14
+P0723,Suresh Verma,76,Female,Diabetes,15447,21
+P0724,Anjali Sharma,23,Female,Thyroid,6869,12
+P0725,Ravi Yadav,37,Male,Thyroid,6475,10
+P0726,Sneha Reddy,64,Female,Cancer,83217,70
+P0727,Vikram Chopra,63,Female,Thyroid,7661,14
+P0728,Suresh Jain,68,Male,Thyroid,8711,18
+P0729,Raj Sharma,74,Female,Thyroid,5816,17
+P0730,Priya Patel,69,Male,Migraine,6317,11
+P0731,Neha Das,35,Male,Heart Disease,26602,51
+P0732,Anil Mehta,49,Male,Arthritis,20398,30
+P0733,Sneha Rao,75,Female,Diabetes,13332,28
+P0734,Sneha Singh,43,Male,Cancer,94017,112
+P0735,Anjali Patel,88,Male,Heart Disease,44803,59
+P0736,Deepak Verma,48,Male,Diabetes,10304,33
+P0737,Pooja Joshi,85,Female,Cancer,56692,92
+P0738,Kavita Chopra,64,Female,Heart Disease,25830,45
+P0739,Kavita Reddy,49,Female,Diabetes,17688,39
+P0740,Pooja Joshi,68,Female,Diabetes,17703,22
+P0741,Deepak Mehta,34,Male,Hypertension,12094,16
+P0742,Neha Singh,82,Male,Heart Disease,35572,43
+P0743,Sneha Kumar,35,Female,Hypertension,8921,27
+P0744,Sneha Verma,23,Female,Heart Disease,29824,47
+P0745,Pooja Sharma,68,Female,Arthritis,18132,30
+P0746,Sneha Rao,63,Male,Diabetes,17791,24
+P0747,Meena Patel,32,Female,Hypertension,12911,23
+P0748,Rahul Reddy,68,Female,Thyroid,8902,12
+P0749,Raj Joshi,42,Male,Diabetes,19537,39
+P0750,Raj Reddy,28,Female,Diabetes,13833,24
+P0751,Anil Joshi,51,Female,Migraine,4934,7
+P0752,Raj Sharma,44,Female,Hypertension,10492,20
+P0753,Amit Reddy,84,Female,Hypertension,8139,23
+P0754,Anjali Verma,64,Male,Asthma,10256,23
+P0755,Meena Mishra,79,Female,Cancer,67312,92
+P0756,Kavita Jain,41,Female,Migraine,3582,10
+P0757,Deepak Reddy,30,Female,Hypertension,13138,23
+P0758,Sunita Yadav,53,Male,Arthritis,19732,37
+P0759,Priya Nair,31,Female,Heart Disease,33200,48
+P0760,Suresh Joshi,52,Male,Diabetes,15779,30
+P0761,Suresh Das,41,Male,Arthritis,24298,38
+P0762,Anil Mishra,54,Female,Diabetes,12952,20
+P0763,Deepak Chopra,59,Male,Heart Disease,40444,52
+P0764,Sneha Joshi,37,Female,Arthritis,21938,28
+P0765,Sneha Reddy,73,Female,Asthma,10237,14
+P0766,Priya Joshi,83,Male,Arthritis,15215,33
+P0767,Pooja Nair,74,Male,Hypertension,8303,27
+P0768,Anil Kumar,64,Female,Hypertension,10976,21
+P0769,Pooja Joshi,19,Male,Arthritis,17223,25
+P0770,Ravi Sharma,75,Male,Heart Disease,36801,55
+P0771,Sunita Mishra,70,Male,Thyroid,6039,11
+P0772,Kavita Reddy,20,Male,Cancer,101825,111
+P0773,Vikram Gupta,40,Female,Diabetes,12361,30
+P0774,Amit Verma,44,Male,Cancer,107311,95
+P0775,Sneha Yadav,51,Male,Diabetes,15272,31
+P0776,Rahul Jain,56,Female,Diabetes,19385,23
+P0777,Meena Singh,61,Male,Arthritis,18163,35
+P0778,Priya Sharma,55,Female,Hypertension,11920,24
+P0779,Vikram Verma,41,Female,Thyroid,6037,19
+P0780,Amit Mishra,49,Male,Diabetes,18881,20
+P0781,Sneha Nair,22,Male,Arthritis,19322,38
+P0782,Amit Gupta,42,Male,Migraine,4338,5
+P0783,Sneha Mehta,32,Male,Arthritis,23359,26
+P0784,Sneha Mishra,61,Female,Asthma,7366,24
+P0785,Raj Reddy,43,Male,Migraine,7248,11
+P0786,Suresh Gupta,54,Female,Heart Disease,42645,57
+P0787,Neha Nair,24,Female,Arthritis,19507,31
+P0788,Rahul Mishra,45,Male,Diabetes,11972,25
+P0789,Deepak Gupta,88,Female,Migraine,6765,8
+P0790,Deepak Yadav,34,Female,Cancer,134334,103
+P0791,Priya Mehta,67,Male,Migraine,7456,11
+P0792,Pooja Verma,21,Male,Diabetes,12605,22
+P0793,Sneha Mishra,34,Male,Thyroid,5842,11
+P0794,Anil Singh,88,Female,Migraine,7635,5
+P0795,Anjali Rao,43,Female,Asthma,7630,20
+P0796,Neha Singh,76,Male,Hypertension,13451,17
+P0797,Pooja Gupta,55,Male,Diabetes,16088,27
+P0798,Amit Joshi,28,Male,Cancer,127516,68
+P0799,Anil Gupta,25,Male,Hypertension,14652,20
+P0800,Anjali Rao,62,Female,Migraine,5097,9
+P0801,Suresh Mehta,70,Male,Diabetes,17790,31
+P0802,Amit Reddy,74,Male,Thyroid,5835,13
+P0803,Vikram Verma,28,Female,Migraine,6518,6
+P0804,Priya Reddy,45,Female,Cancer,137674,99
+P0805,Meena Joshi,72,Male,Arthritis,15628,35
+P0806,Raj Kumar,51,Female,Asthma,8994,22
+P0807,Neha Nair,77,Male,Thyroid,5151,16
+P0808,Suresh Jain,25,Female,Cancer,51887,94
+P0809,Priya Das,78,Male,Arthritis,24866,31
+P0810,Anjali Chopra,88,Female,Heart Disease,40150,50
+P0811,Kavita Verma,60,Male,Heart Disease,31636,53
+P0812,Rahul Kumar,87,Male,Hypertension,8676,21
+P0813,Neha Rao,31,Female,Diabetes,15950,37
+P0814,Deepak Jain,31,Female,Heart Disease,41175,45
+P0815,Raj Rao,54,Male,Thyroid,8873,12
+P0816,Meena Das,44,Male,Migraine,7882,7
+P0817,Raj Patel,72,Male,Thyroid,8108,14
+P0818,Deepak Reddy,66,Male,Cancer,102043,109
+P0819,Priya Singh,52,Female,Diabetes,10868,22
+P0820,Kavita Nair,32,Male,Hypertension,13141,29
+P0821,Ravi Verma,38,Male,Diabetes,17027,32
+P0822,Priya Sharma,87,Male,Migraine,3653,8
+P0823,Suresh Kumar,67,Female,Hypertension,9379,28
+P0824,Neha Das,41,Male,Asthma,11437,11
+P0825,Deepak Sharma,30,Female,Hypertension,13686,19
+P0826,Kavita Das,81,Female,Diabetes,18127,39
+P0827,Ravi Patel,19,Male,Thyroid,6757,12
+P0828,Amit Patel,47,Male,Thyroid,9719,10
+P0829,Suresh Singh,43,Male,Arthritis,17869,26
+P0830,Raj Kumar,50,Female,Heart Disease,39752,56
+P0831,Rahul Gupta,29,Male,Asthma,8135,20
+P0832,Amit Rao,39,Female,Arthritis,19172,26
+P0833,Raj Patel,64,Female,Diabetes,17665,30
+P0834,Kavita Rao,26,Male,Diabetes,15883,28
+P0835,Kavita Kumar,74,Female,Arthritis,16757,38
+P0836,Anil Yadav,78,Female,Cancer,114345,103
+P0837,Anil Chopra,72,Female,Asthma,9772,13
+P0838,Meena Sharma,29,Male,Asthma,7047,19
+P0839,Anil Joshi,45,Male,Arthritis,15051,36
+P0840,Anjali Joshi,26,Female,Cancer,77565,91
+P0841,Anjali Mehta,76,Male,Hypertension,10374,21
+P0842,Priya Gupta,66,Male,Cancer,91582,60
+P0843,Anil Mishra,55,Female,Asthma,11325,13
+P0844,Pooja Das,87,Male,Heart Disease,27206,43
+P0845,Pooja Gupta,63,Female,Thyroid,8636,18
+P0846,Anil Patel,61,Female,Cancer,119825,69
+P0847,Ravi Singh,68,Female,Migraine,3826,5
+P0848,Anil Rao,50,Male,Migraine,7924,8
+P0849,Kavita Das,29,Female,Heart Disease,29584,51
+P0850,Sneha Verma,22,Female,Diabetes,15080,30
+P0851,Vikram Mehta,83,Female,Arthritis,16086,31
+P0852,Suresh Yadav,39,Male,Heart Disease,40583,54
+P0853,Pooja Verma,74,Female,Cancer,113158,94
+P0854,Amit Chopra,88,Male,Diabetes,15862,37
+P0855,Sunita Mehta,77,Female,Heart Disease,45641,48
+P0856,Sneha Mehta,19,Male,Thyroid,6887,10
+P0857,Raj Reddy,29,Male,Thyroid,6826,11
+P0858,Anil Nair,69,Male,Hypertension,11813,17
+P0859,Amit Chopra,68,Female,Asthma,10767,23
+P0860,Sunita Das,50,Female,Asthma,9165,20
+P0861,Vikram Kumar,79,Male,Diabetes,16164,23
+P0862,Sunita Sharma,83,Male,Migraine,5919,5
+P0863,Rahul Jain,31,Female,Cancer,74126,72
+P0864,Sneha Mehta,55,Male,Heart Disease,30795,56
+P0865,Vikram Joshi,75,Female,Cancer,66277,78
+P0866,Ravi Verma,21,Male,Diabetes,16369,38
+P0867,Anil Reddy,80,Male,Heart Disease,28299,52
+P0868,Raj Sharma,22,Male,Thyroid,9181,16
+P0869,Ravi Mishra,43,Male,Hypertension,14062,21
+P0870,Anjali Sharma,66,Male,Cancer,116426,119
+P0871,Rahul Gupta,22,Female,Asthma,11026,10
+P0872,Anjali Nair,59,Female,Asthma,8606,13
+P0873,Anjali Jain,77,Female,Heart Disease,47887,46
+P0874,Anjali Reddy,63,Female,Migraine,3748,13
+P0875,Pooja Kumar,75,Male,Cancer,55997,100
+P0876,Rahul Jain,35,Female,Heart Disease,35162,45
+P0877,Priya Mishra,72,Female,Diabetes,17179,32
+P0878,Priya Nair,71,Male,Heart Disease,45666,52
+P0879,Meena Verma,44,Male,Cancer,74639,75
+P0880,Deepak Jain,63,Female,Thyroid,7091,13
+P0881,Ravi Kumar,86,Male,Thyroid,5586,12
+P0882,Meena Rao,77,Male,Hypertension,8652,22
+P0883,Sunita Mishra,89,Female,Diabetes,12015,27
+P0884,Ravi Reddy,44,Female,Hypertension,8953,28
+P0885,Meena Reddy,60,Female,Diabetes,18286,26
+P0886,Anil Jain,83,Male,Arthritis,16306,27
+P0887,Meena Singh,52,Female,Asthma,9486,12
+P0888,Neha Jain,49,Male,Hypertension,9672,21
+P0889,Anil Patel,73,Female,Arthritis,20329,35
+P0890,Sneha Patel,25,Female,Cancer,70212,84
+P0891,Raj Mehta,58,Female,Hypertension,13377,29
+P0892,Neha Singh,24,Female,Diabetes,11792,21
+P0893,Anil Jain,44,Female,Cancer,125456,63
+P0894,Suresh Joshi,46,Female,Cancer,78177,104
+P0895,Meena Singh,54,Female,Cancer,135435,96
+P0896,Vikram Nair,69,Male,Asthma,10382,12
+P0897,Raj Mishra,82,Female,Hypertension,10161,24
+P0898,Raj Chopra,34,Male,Heart Disease,47806,46
+P0899,Deepak Gupta,38,Male,Thyroid,9024,15
+P0900,Meena Rao,80,Female,Asthma,8412,24
+P0901,Vikram Mehta,53,Male,Migraine,7664,8
+P0902,Priya Gupta,50,Male,Migraine,7649,5
+P0903,Ravi Mishra,60,Female,Hypertension,8170,17
+P0904,Priya Singh,86,Female,Arthritis,16641,37
+P0905,Sunita Joshi,22,Male,Migraine,6543,14
+P0906,Deepak Nair,83,Female,Asthma,9180,20
+P0907,Rahul Reddy,20,Female,Migraine,4293,6
+P0908,Pooja Kumar,29,Male,Migraine,5242,5
+P0909,Raj Verma,31,Female,Migraine,6728,7
+P0910,Vikram Joshi,31,Female,Cancer,73612,115
+P0911,Sneha Patel,30,Female,Cancer,60861,83
+P0912,Pooja Rao,18,Male,Diabetes,17525,26
+P0913,Priya Chopra,51,Male,Migraine,3989,8
+P0914,Ravi Mishra,53,Male,Diabetes,15447,33
+P0915,Raj Rao,19,Female,Cancer,112321,90
+P0916,Sneha Nair,55,Female,Cancer,100949,62
+P0917,Vikram Rao,37,Female,Arthritis,22797,35
+P0918,Pooja Mehta,51,Female,Thyroid,9746,17
+P0919,Rahul Patel,30,Female,Thyroid,5570,15
+P0920,Ravi Das,81,Male,Arthritis,18531,29
+P0921,Neha Kumar,53,Male,Migraine,5110,8
+P0922,Anil Singh,83,Female,Migraine,3517,7
+P0923,Vikram Nair,36,Male,Thyroid,7907,14
+P0924,Vikram Jain,41,Female,Migraine,3264,10
+P0925,Vikram Yadav,71,Female,Cancer,134208,74
+P0926,Sneha Sharma,77,Female,Hypertension,10976,19
+P0927,Sneha Rao,47,Male,Asthma,11957,19
+P0928,Kavita Gupta,76,Male,Cancer,131814,100
+P0929,Amit Rao,47,Female,Hypertension,8112,23
+P0930,Suresh Mehta,76,Male,Diabetes,19872,24
+P0931,Sunita Rao,31,Female,Cancer,97009,81
+P0932,Priya Gupta,72,Female,Diabetes,18786,20
+P0933,Suresh Nair,57,Male,Migraine,3168,5
+P0934,Anil Das,47,Female,Hypertension,12331,17
+P0935,Anjali Jain,59,Female,Thyroid,8273,13
+P0936,Ravi Joshi,62,Male,Heart Disease,30166,44
+P0937,Meena Kumar,48,Female,Arthritis,22593,29
+P0938,Neha Singh,78,Female,Migraine,4331,13
+P0939,Amit Rao,54,Male,Asthma,9292,18
+P0940,Kavita Verma,81,Male,Migraine,3157,8
+P0941,Ravi Reddy,29,Male,Thyroid,5913,10
+P0942,Deepak Verma,38,Male,Thyroid,5778,11
+P0943,Vikram Patel,57,Male,Diabetes,12785,34
+P0944,Suresh Mehta,72,Male,Thyroid,9645,11
+P0945,Vikram Patel,23,Male,Hypertension,13356,16
+P0946,Neha Mishra,49,Female,Hypertension,14761,28
+P0947,Sneha Sharma,29,Female,Hypertension,10009,15
+P0948,Sunita Das,58,Male,Arthritis,24978,37
+P0949,Anil Nair,56,Female,Hypertension,13496,28
+P0950,Sunita Nair,33,Female,Thyroid,6049,17
+P0951,Neha Kumar,60,Male,Cancer,67688,76
+P0952,Rahul Kumar,32,Male,Heart Disease,45052,41
+P0953,Meena Sharma,33,Female,Asthma,8737,14
+P0954,Ravi Joshi,39,Female,Asthma,11056,16
+P0955,Suresh Nair,33,Female,Cancer,81708,118
+P0956,Suresh Patel,21,Female,Diabetes,18545,38
+P0957,Deepak Rao,74,Female,Migraine,3917,10
+P0958,Sunita Verma,63,Female,Thyroid,9057,12
+P0959,Anil Sharma,37,Male,Heart Disease,29400,50
+P0960,Ravi Gupta,68,Female,Thyroid,5682,17
+P0961,Kavita Das,66,Male,Migraine,7807,12
+P0962,Meena Rao,57,Female,Cancer,94397,91
+P0963,Amit Reddy,60,Male,Cancer,56654,91
+P0964,Raj Yadav,89,Male,Cancer,57331,69
+P0965,Kavita Sharma,22,Male,Diabetes,14973,32
+P0966,Pooja Kumar,20,Female,Migraine,6097,7
+P0967,Vikram Gupta,37,Male,Arthritis,16479,31
+P0968,Anil Das,65,Male,Thyroid,9968,17
+P0969,Sneha Verma,56,Male,Thyroid,6320,10
+P0970,Deepak Joshi,71,Male,Heart Disease,36124,45
+P0971,Raj Mehta,57,Female,Diabetes,13571,27
+P0972,Neha Mishra,55,Female,Heart Disease,26928,59
+P0973,Deepak Verma,49,Male,Hypertension,10510,18
+P0974,Sneha Singh,27,Male,Thyroid,9487,12
+P0975,Anil Joshi,43,Female,Migraine,7314,9
+P0976,Suresh Nair,34,Female,Heart Disease,49660,41
+P0977,Suresh Jain,43,Male,Hypertension,8292,16
+P0978,Raj Sharma,43,Female,Asthma,7067,14
+P0979,Anil Mehta,20,Male,Migraine,5614,9
+P0980,Sneha Rao,84,Male,Migraine,4302,5
+P0981,Suresh Gupta,34,Female,Cancer,53224,118
+P0982,Suresh Singh,26,Female,Asthma,8568,13
+P0983,Raj Kumar,59,Female,Asthma,10142,15
+P0984,Meena Verma,87,Female,Thyroid,8607,18
+P0985,Sneha Rao,28,Female,Cancer,100789,96
+P0986,Deepak Sharma,19,Male,Thyroid,5958,15
+P0987,Raj Verma,79,Female,Arthritis,23729,38
+P0988,Suresh Reddy,25,Male,Migraine,5977,14
+P0989,Priya Mishra,81,Male,Cancer,56834,97
+P0990,Rahul Yadav,36,Male,Diabetes,15926,27
+P0991,Anjali Rao,30,Female,Cancer,145570,72
+P0992,Ravi Das,29,Female,Diabetes,17444,28
+P0993,Ravi Patel,31,Male,Diabetes,11209,27
+P0994,Vikram Mehta,65,Female,Diabetes,12876,26
+P0995,Suresh Gupta,79,Female,Diabetes,12318,36
+P0996,Raj Yadav,51,Male,Diabetes,12747,20
+P0997,Vikram Chopra,71,Male,Heart Disease,27651,52
+P0998,Deepak Rao,56,Male,Hypertension,14400,25
+P0999,Meena Kumar,60,Male,Heart Disease,35543,46
+P1000,Priya Joshi,58,Female,Arthritis,22638,26
